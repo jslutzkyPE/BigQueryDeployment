@@ -13,7 +13,7 @@
 # limitations under the License.
 
 resources:
-- name: vm-created-by-deployment-manager
+- name: big-query-deployment-manager
   type: compute.v1.instance
   properties:
     zone: us-central1-a
